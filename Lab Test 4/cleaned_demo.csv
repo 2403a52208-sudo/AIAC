@@ -1,0 +1,10 @@
+name,age_years,e-mail,subscribed
+Alice,25.0,alice@example.com,Yes
+Bob,30.0,bob@example.com,No
+Charlie,35.0,charlie@sample.com,yes
+Alice,25.0,alice@example.com,yes
+Dana,26.5,dana@example.com,No
+Eve,28.0,eve@data.com,Yes
+Alice,22.0,frank@ml.com,Yes
+Frank,40.0,frank@ml.com,yes
+Heidi,22.0,alice@example.com,Yes
